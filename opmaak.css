@@ -1,0 +1,151 @@
+body {
+  background-image: url("https://lh3.googleusercontent.com/pw/AM-JKLVUo3cnXs_B6QK2PVNaQUYhipq1SWhuUWMZQuirTfBsl-gR8mjyobPz6BIkwQHGf9SGUKuBQxPBtE-xzuBODnq3pOPIbzvuhg0DocO_oqUXgvBsF4siSp4lkJj66-i9UMPVhm3rzUqgfSjBiMCaje0=w1179-h663-no?authuser=0");
+  background-size: cover;
+
+}
+
+.topleft {
+    position: absolute;
+    margin-left: -30px;
+}
+
+h1 {
+  font-family:sans-serif;
+  color: white;
+  text-align: center;
+  text-shadow: 3px 3px 3px black;
+}
+
+a {
+  font-family: cursive;
+}
+
+iframe {
+  margin-top: 30px;
+
+}
+
+.about-text {
+  border: 3px solid #152238;
+  background-color: #203354;
+  text-align: center;
+  width: 450px;
+  height: 432px;
+}
+
+.developer-text {
+  border: 3px solid #152238;
+  background-color: #203354;
+  text-align: center;
+  width: 450px;
+  height: 550px;
+}
+.trailer-text {
+  border: 3px solid #white;
+  background-color: #grey;
+  text-align: center;
+  width: 450px;
+  height: 50px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.bar {
+  background-color: #333;
+  width: 450px;
+  margin: auto;
+  margin-top: auto;
+  overflow: hidden;
+}
+
+.bar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.bar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.bar a.active {
+  background-color: #black;
+  color: white;
+}
+
+.bar .icon {
+  display: none;
+}
+td, table{
+  border-style: solid;
+  background-color: gray;
+  margin: auto;
+}
+
+#SupersonicLegend{
+  background-color: #663a82;
+}
+
+#GrandChampion{
+  background-color: #FF7F7F;
+}
+
+#Champion{
+  background-color: #B19CD9;
+}
+
+#Diamond{
+  background-color: darkblue;
+}
+
+#Platinum{
+  background-color: lightblue
+}
+
+#Gold{
+  background-color: darkorange;
+}
+
+#Silver{
+  background-color: silver;
+}
+
+#Bronze{
+  background-color: Brown;
+}
+
+#Iron{
+  background-color: grey;
+}
+
+#Table{
+  background-color: white;
+}
+
+
+.rlimg {
+  width: 95%;
+
+}
+
+.rldev {
+  width: 75%;
+}
+
+.special {
+  color: white;
+}
